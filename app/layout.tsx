@@ -2,9 +2,9 @@ import type { Metadata } from "next";
 import "./globals.css";
 
 export const metadata: Metadata = {
-  title: "Shoppe Web | Sitios web que conectan",
+  title: "Selva Studio | Diseño web a tu medida",
   description:
-    "Diseñamos y desarrollamos sitios web a medida para marcas con visión. Tu intuición merece una presencia digital extraordinaria.",
+    "Diseñamos y desarrollamos páginas web a la medida de tu proyecto. Experiencias digitales auténticas, claras y listas para crecer contigo.",
 };
 
 export default function RootLayout({
